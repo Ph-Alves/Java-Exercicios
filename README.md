@@ -1,2 +1,2 @@
-# Java-projetos
-Meus projetos de Java feitos com o curso da udemy
+# Java-Exercícios
+Meus Exercícios de Java feitos com o curso da udemy
